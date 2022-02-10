@@ -1,0 +1,250 @@
+A person is on a baseball team.	Ένα άτομο παίζει μπάσκετ σε μια ομάδα.	2.4
+Our current vehicles will be in museums when everyone has their own aircraft.	Το αυτοκίνητο χρειάζεται κάποια εργασία	0.2
+A woman supervisor is instructing the male workers.	Μια γυναίκα εργάζεται ως νοσοκόμα.	1
+A bike is next to a couple women.	Ένα παιδί δίπλα σε ένα ποδήλατο.	2
+The group is eating while taking in a breathtaking view.	Μια ομάδα ανθρώπων ρίχνει μια ματιά σε ένα ασυνήθιστο δέντρο.	2.2
+The boy is raising his hand.	Ο άνδρας σηκώνει το χέρι του.	3.4
+A man with a gray beard is being shaved in front of a lecture hall	Ένας άνδρας με μούσι κάθεται στο γρασίδι.	0.8
+The sky has very little to no clouds.	Αυτή η κυρία θα μπορούσε να είναι έτοιμη για αναρρίχηση, ή απλά βλέπει τα σύννεφα, πάνω.	0.4
+The young boy jumps barefoot outside in the front yard.	Ο έφηβος οδήγησε το ποδήλατό του γύρω από τους ανθρώπους που περπατούν στην αυλή.	0.4
+There are dogs in the forest.	Τα σκυλιά είναι μόνα στο δάσος.	4
+Some cyclists stop near a sign.	Δύο άνδρες σταματούν να μιλάνε κοντά σε μια πινακίδα έξω.	3.4
+These cooks in the white are busy in the kitchen making dinner for their customers.	Οι γυναίκες προετοιμάζουν το δείπνο στην κουζίνα τους.	3
+A young person  deep in thought.	Ένας νεαρός άνδρας σε βαθιές σκέψεις.	4.6
+A man is carrying a canoe with a dog.	Ένας σκύλος μεταφέρει έναν άνδρα σε ένα κανό.	1.8
+A man is performing labor.	Ένας άνδρας παρουσιάζει σήμερα.	2.8
+Two men wearing traditional clothing is standing outside.	Τρεις γυναίκες που φορούν μαύρες φανέλες και γκρι πουκάμισα μιλούν έξω από ένα κτίριο.	2
+a woman watches a rap group live	Ένα κοινό παρακολουθεί ένα κορίτσι να χορεύει.	2.2
+A girl dancing on a sandy beach.	Ένα κορίτσι είναι σε μια αμμώδη παραλία.	3.6
+a man wearing a gray hat fishing out of a fishing boat.	Ένας άνδρας φορώντας ένα ψάθινο καπέλο και γιλέκο ψαρέματος σε ένα ρεύμα ποταμού.	2.6
+A little girl in an orange striped outfit is airborne whilst bouncing on a bed.	Ένα σκυλί σε κόκκινο πουκάμισο κυνηγάει ένα σκίουρο μέσα από το γυαλί.	0.2
+A person is watching people ski down the hill.	Η γυναίκα εκτελεί άλμα σε μεγάλη απόσταση, ενώ οι άνθρωποι παρακολουθούν.	1.4
+The yard has a dog.	Ο σκύλος τρέχει πίσω από άλλο σκυλί.	1.6
+The woman is drinking lemonade and watching T.V.	Ο άνθρωπος κάθεται πίνοντας καφέ.	0.4
+Three women cook.	Δύο γυναίκες μαγειρεύουν.	3.2
+The woman is kneeling next to a cat.	Ένα κορίτσι στέκεται δίπλα σε έναν άνδρα.	0.2
+The young adult are cold	Ασιατικά παιδιά που παίζουν με ένα σκύλο.	0.2
+Three guys playing a pro game of basketball.	δύο άντρες που παίζουν ένα παιχνίδι μπέιζμπολ.	2.4
+A sad man is jumping over a small stream to meet his companion on the other side.	Ένας άνδρας πηδάει πάνω από ένα ρεύμα για να συναντήσει τον σύντροφό του από την άλλη πλευρά.	3.8
+The boys are earning their next belt in karate.	Πέντε κορίτσια και ένα αγόρι είναι με τα μαγιό τους όλα στη μέση ενός άλματος στην πισίνα.	0.2
+A woman is digging in the sand.	Ένας άνθρωπος είναι θαμμένος στην άμμο.	1.4
+A woman drives a golf cart.	Ένας άνθρωπος οδηγεί ένα καρότσι.	1.8
+A woman is bungee jumping.	Ένα κορίτσι κάνει bungee jumping.	4.2
+A clown performs for brother and sister as the rest of the party watches.	Ένα ξανθό παιδί παίζει τρομπέτα μπροστά από ένα σπίτι ενώ ο νεότερος αδερφός του παρακολουθεί.	1.2
+A person filming the outdoors.	Υπάρχει ένα ζευγάρι έξω.	1.6
+A human riding a skateboard.	Ένα παιδί είναι καβάλα σ 'ένα skateboard.	3.8
+A woman in a plaid outfit is looking through a bag of produce.	Αυτή είναι η εικόνα μιας γυναίκας σε ένα λουλουδάτο φόρεμα, κουβαλώντας κάτι σε ένα καλάθι.	1
+Four girls happily walk down a sidewalk.	Τρία νεαρά κορίτσια τα πόδια κατεβαίνουν ένα πεζοδρόμιο.	3.4
+The tennis player hit the ball into outer space and broke the death star.	Η τενίστρια πηδάει στον αέρα για να χτυπήσει την μπάλα.	1.2
+A boy climbs a forest hill.	Ένα αγόρι κάνει αναρρίχηση σε ένα λόφο.	4
+a group of navy seals are singing	Μια ομάδα από το στρατιωτικό προσωπικό παίζουν σε ένα κουιντέτο χάλκινων πνευστών.	2.4
+Blond boy jumping onto deck.	Ένα αγόρι πηδάει σε μια υγρή φουσκωτή τσουλήθρα.	2
+A man uses a chainsaw to sculpt a phallic ice sculpture.	Ένας άνθρωπος χρησιμοποιεί ένα αλυσοπρίονο για να χαράξει ένα ξύλινο γλυπτό.	2.6
+A group of male construction workers repair railroad tracks on a cloudy day	Ένα πλήρωμα εργαζομένων εργάζονται σε μια σιδηροδρομική γραμμή.	3.8
+A man playing the violin in the rain.	Ένας άνθρωπος παίζει κιθάρα στη βροχή.	3.2
+The people are leaving the airplane.	Οι άνθρωποι εισέρχονται στο αεροπλάνο.	2.2
+The dogs are chasing a cat.	Τα σκυλιά κυνηγούν μια μαύρη γάτα.	4.4
+The girl has something on her head.	Η γυναίκα έχει κάτι μαζί της.	2.6
+the tan dog is playing with the red dog out in the snow	Ένα κίτρινο σκυλί παίζει στο χιόνι.	2.6
+People making a structure out of cards.	Δύο άνθρωποι είναι μαζί και κάποιος χρησιμοποιεί ένα ρούχο με διαφορετικό τρόπο από ό, τι προβλέπεται.	0.2
+a girl with vases in the background inside her house	Το κορίτσι στέκεται όσο ή άλλη κοπέλα με τα γυαλιά δουλεύει στη ζωγραφιά της.	0.2
+There are four people outside.	Πέντε άνθρωποι είναι έξω.	3
+A person sitting in an office takes a picture.	Μια γυναίκα κάθεται σε ένα γραφείο.	3.2
+Girls are holding hands in blue clothes	Οι νέοι άνθρωποι φορούν τζιν με τα κόκκινα και πράσινα μπλουζάκια τους.	1.8
+People rock jumping into water while people fish in the background.	Δύο άτομα παρακολουθούν το νερό.	2.2
+A man is demonstrating how to work with clay while at least two people observe.	Τουλάχιστον μία από τις τρεις γυναίκες μιλούν με τους άλλους.	0.6
+A dog has a sweater on.	Ένας άντρας σε ένα σακάκι κουστουμιού κάθεται σε ένα κόκκινο καναπέ με μια γάτα.	0.6
+A blonde woman looks for medical supplies for work in a suitcase.	Η ξανθιά γυναίκα ψάχνει για ιατρικές προμήθειες σε μια βαλίτσα.	5
+A boy is at school taking a test.	Το αγόρι κάνει ένα τεστ στο σχολείο.	5
+An old man wearing a hat stands outside a shop door.	ένας άνθρωπος σε υπερμεγέθες πουκάμισο κάθεται σε ένα κατάστημα	2.2
+Sculptor applying concrete to large statue of human figure standing with no head.	Ένα άτομο στέκεται μπροστά από ένα κτίριο κρατώντας κάποιο κόντρα πλακέ	0.2
+A boy with dark hair is in water and is looking up.	Ο άνθρωπος είναι με κοντά μαλλιά.	0.6
+A pole is behind a person that is playing peekaboo with a child.	Υπάρχει ένα παιδί με μια μπάλα	0.2
+A woman is about to paint.	Ένα αγόρι είναι έτοιμο να τραβήξει μια φωτογραφία.	1
+The carriage is drawn by a horse.	Ένας άνδρας κάνει ποδήλατο πλευρικά του κτιρίου.	0.4
+a man working at the steel mill	Ένας άνδρας εργάζεται σε ένα χυτήριο.	3.4
+The young woman is flirting with the young boy.	Το κορίτσι είναι νέο και χαρωπό.	1.4
+A woman looks at a duck as she walks behind it.	Μια γυναίκα πηγαίνει για μια βόλτα με το σκύλο της.	1
+the men are about to score in a water polo tournament	Οι δύο άνδρες είναι έτοιμοι να ανταγωνιστούν σε έναν αγώνα.	2
+Man sitting on a bench drink from a mug surrounded by rugs.	Ένας άνδρας κάθεται σε ένα από τα δύο κόκκινα παγκάκια και κοιτάζει ένα περίπτερο.	2.2
+A man eats popcorn while watching cartoons late one night.	Ένας άντρας και ένα κορίτσι παρακολουθούν κινούμενα σχέδια στο σπίτι	2.8
+Three men sit on a bench.	δύο άνδρες κάθονται σε ένα παγκάκι.	3.2
+The road is long.	Δεν υπάρχει τίποτα στο πλάι του δρόμου.	0.8
+A small blond boy slides head first down a blue playground slide toward another blond youth.	Ένα νεαρό αγόρι με τα μαλλιά του να στέκονται επάνω, γλιστράει σε μια μπλε τσουλήθρα	2
+The four women are practicing for a upcoming match.	Οι γυναίκες είναι σε ένα θεατρικό έργο	1.2
+a young man wearing a white t-shirt and green and black shorts standing on a stump.	Ένας άνδρας φορώντας ένα λευκό πουκάμισο και κόκκινο και μαύρο σορτς τρέχει στο πεζοδρόμιο.	1.8
+man on steps	Ένας άνδρας κάθεται σε σκαλιά.	4
+A dog under the stairs	Ένα σκυλί ξεκουράζεται στις σκάλες.	2.2
+There is a young girl.	Υπάρχει ένα νεαρό αγόρι με τη γυναίκα.	1
+Two women give a demonstration at a Renaissance Fair.	Δύο άνθρωποι κάνουν μια επίδειξη σε ένα αναγεννησιακό φεστιβάλ.	4.2
+A woman paints a picture of a large building which can be seen in the background.	Ένας άνθρωπος ζωγραφίζει μια εικόνα ενός μεγάλου κτιρίου που μπορεί να δει κανείς στο παρασκήνιο.	4.2
+Some guy sitting on a couch watching television.	Ένας άντρας κάθεται στον καναπέ βλέποντας τηλεόραση	5
+A woman is posing for a Christmas card.	Ένα κορίτσι τραβάει μια φωτογραφία.	1.2
+Two kids are playing a game of Foosball.	Τα παιδιά παίζουν ένα παιχνίδι μεταξύ τους.	3.4
+The man is in a deserted field.	Ο άνθρωπος είναι έξω στο πεδίο.	4
+A little boy is drinking from a juice packet.	Ένα αγόρι πίνει χυμό από ένα κουτάκι.	4.8
+A man has his skis ready for the field to get iced out	Ένας άντρας σε μια βάρκα ετοιμάζεται να τραβήξει τα δίχτυα του για να δει τι έπιασε.	0.4
+The biker is doing dangerous stunts.	Ένας ποδηλάτης κάνει ακροβατικά.	4.4
+A musician is smearing jam on his white guitar at a concert.	Τρομπονίστας παίζει το όργανο της σε μια μπάντα για μια παρέλαση.	0.4
+A man is working on his farm.	Ένας γέρος εργάζεται στο αγρόκτημά του και μια αγελάδα τον κλωτσά.	2.8
+A pair of young boys in t-shirts are hiding in the woods with one looking aghast.	Δύο χαμογελαστά μικρά κορίτσια παίζουν σε ένα συντριβάνι με άλλους ανθρώπους.	0
+A group of people playing soccer on a soccer field in front of a crowd.	Μια ομάδα ανδρών παίζουν ποδόσφαιρο σε ένα γήπεδο γεμάτο κόσμο.	3
+A man is enjoying watching three asian children dance.	Ένας άνδρας βλέπει τρία ασιατικά παιδιά να χορεύουν.	4.6
+A girl is talking to her dad on a cellphone.	ένα κορίτσι μιλάει στο κινητό της.	4.4
+One person wields an umbrella.	Ένα πρόσωπο κρατά μια ομπρέλα.	4.4
+A woman walking down the side of a highway.	Ένας άνδρας στέκεται στο ένα πόδι πάνω σε μια γέφυρα.	0.4
+A group of teenagers jumping and having a good time.	Μια ομάδα παιδιών περνάνε όμορφα.	3.6
+A man calling for a taxi at the airport on a sunny day.	Ένας άνθρωπος είναι έξω μια μέρα του Ιουλίου.	1.4
+A man is playing his guitar at Joe's Cafe.	Ο άντρας παίζει τα τύμπανα για τη μαμά του.	1.2
+A young boy has a red fishing pole.	Ένα νεαρό αγόρι στέκεται πάνω από μια γέφυρα με ένα καλάμι ψαρέματος.	3
+A player bounces a ball.	Ένας παίκτης πιάνει την μπάλα.	1.6
+Someone is on a blanket.	Το άτομο φτιάχνει μια κουβέρτα.	1.4
+Men competing in a contest.	Δύο γυναίκες ανταγωνίζονται σε ένα διαγωνισμό.	2.4
+The puppy is outdoor.	Ένας άντρας σε τυπωμένο σορτσάκι κάνει μια στάση γιόγκα στην παραλία.	0
+The man has a orange shirt.	Η γυναίκα έχει ένα πουκάμισο πορτοκαλί.	3.4
+The two kids look at the products sold inside the subway shop.	Τα παιδιά κλέβουν από ένα κατάστημα.	0.8
+The baby boy wants his mother.	Ένα μικρό αγόρι χαίρεται που βλέπει τη μητέρα του.	2.8
+A young girl in a pink jacket is playing a board game.	Ένα αγόρι με μπουφάν παίζει.	1.6
+A smiling Caucasian male wearing a blue and black striped shirt it about to take a photograph.	Ένας άντρας σε ένα λευκό πουκάμισο και μαύρο παντελόνι χαμογελά.	1.6
+A person is scaling a rock wall.	Ένας άνθρωπος και ένα άλογο είναι πάνω από ένα φράκτη.	0.2
+A boy is very close to a girl.	Ένα κορίτσι είναι κοντά σε ένα αγόρι του οποίου το πρόσωπο δεν φαίνεται.	3.2
+Two men are playing a game of Scrabble together.	Οι δύο γυναίκες παίζουν ένα παιχνίδι.	2.2
+Six children are cleaning a room.	Δύο αρσενικά παιδιά καθαρίζουν φύλλα σε ένα πάρκινγκ.	1.6
+The girl is very skilled and practices a lot.	Ο άνθρωπος είναι πολύ εξειδικευμένος.	2
+Many guards are standing in front of the starting line of a race.	Δύο άνδρες με επίσημη ενδυμασία στέκονται στην άκρη του δρόμου.	0.4
+There is a cook preparing food.	Ένας μάγειρας κάνει φαγητό.	5
+Two men are helping a boy.	Δύο άνδρες είναι με ένα μικρό παιδί.	3.6
+A man at a farmers market.	Ένας άνδρας είναι σε μια αγροτική αγορά.	4.8
+four people walk toward a tower	Δύο άνδρες περπατάνε προς ένα θολωτό κτίριο.	2
+A little girl and boy are reading books.	Ένα μεγαλύτερο παιδί παίζει με μια κούκλα αγναντεύοντας έξω από το παράθυρο.	0.2
+The child would like to swim.	Τα παιδιά θέλουν να κολυμπήσουν.	3.8
+Two skiing people are doing cross country skiing.	Άνθρωποι κάνουν σκι cross country.	3.6
+A dog taking a poop in the street.	Ένας άντρας κάνει ζώα από μπαλόνια για δύο παιδιά σε μια γωνιά του δρόμου.	0.4
+Men are fighting after a basketball game.	Οι άνδρες παίζουν ένα παιχνίδι μπάσκετ.	2.2
+A kid is talking in class.	Ένα κορίτσι πηγαίνει στην τάξη.	1.8
+The women are trying to sell something to the individual.	Οι άντρες προσπαθούν να βγάλουν κάποια χρήματα.	1.2
+People are waiting for the fireworks to start.	Τρεις άνθρωποι περιμένουν να σταματήσει η βροχή.	1.2
+A dog prepares to herd three sheep with horns.	Ένας σκύλος και τα πρόβατα τρέχουν μαζί.	2.2
+People are sitting around dimly lit tables while smiling and laughing.	Άνθρωποι κάθονται στα παγκάκια.	2
+A dog is chasing cows.	Ένα λευκό σκυλί κυνηγάει αγελάδες.	4
+One football player tries to tackle a player on the opposing team.	Ένας ποδοσφαιριστής επιχειρεί ένα τάκλιν.	4.6
+Three men are drying to pull a Subaru out of a ditch along a mountain road.	Οι δύο άνδρες περιμένουν για μεταφορικό μέσο στην πλευρά ενός χωματόδρομου.	1.4
+A woman doesn't have her arms up because she's paralyzed from the neck down	Μια γυναίκα κάθεται στα σκαλιά γιατί σκόνταψε και χτύπησε τον αστράγαλό της.	0.8
+People gathered in a room.	Οι άνθρωποι συγκεντρώθηκαν σε ένα δωμάτιο.	5
+The woman in overalls paints a picture for her wall.	Μια γυναίκα βάφει τον τοίχο της λευκό.	2.6
+Adding aspirin to the water could kill the plant.	Άνδρες προσπαθούν να αφαιρέσουν πετρέλαιο από μια ποσότητα νερού.	0
+Five kids are standing in front of a tent.	Άνθρωποι κάθονται μπροστά από έναν κήπο.	0.6
+Female in a maroon shirt engaged in conversation with another female in a tan blazer.	Ένα κορίτσι σε ένα μπλε φόρεμα και ένα άλλο κορίτσι σε ένα μοβ φόρεμα, χαμογελούν και τα δύο.	1.2
+Baseball players playing a game at the park.	Ένας παίκτης μπάσκετ, παίζοντας στο coming home παιχνίδι.	1.6
+They are preparing for a performance at school.	Δύο επαγγελματίες του ιατρικού τομέα στα πράσινα κοιτάνε κάτι.	0
+The woman is wearing yellow.	Η γυναίκα φοράει κόκκινα.	2.8
+Some smiling children are standing in front of an ocean sunset.	Άνθρωποι περπατούν στο σκοτάδι	0.6
+A man is doing a stunt on his bicycle.	Ένας άντρας κάνει σούζα με τη μοτοσικλέτα του.	3.2
+Ten people riding ATVs.	4 άτομα κάνουν ποδήλατο	1.6
+Two fishermen try to untangle their large fishing net on the side of the road on a cloudy day.	Αρκετοί άνδρες τραβούν ένα αλιευτικό δίχτυ επάνω στην παραλία.	3
+A yellow vested person is doing road work.	Ένα άτομο τα πάει πολύ καλά πάνω στο skateboard του.	0.2
+The woman had brown hair.	Η γυναίκα έχει γκρίζα μαλλιά.	2.4
+Black and white image of a wave crashing in the ocean.	ένα μικρό μαύρο σκυλί στον ωκεανό με κάποια βράχια στο παρασκήνιο	0.6
+A lady and her daughter look through a microscope.	Ένα κορίτσι και μια γυναίκα κοιτούν κι οι δύο μέσα από ένα μικροσκόπιο.	4.6
+Two workers are sitting next to pipes eating lunch	Οι εργάτες κάθονται να φάνε μεσημεριανό γεύμα.	3.8
+A boy does a skateboard trick on the stairs downtown.	ένα αγόρι τρέχει στο πεζοδρόμιο	0.6
+A group of people living in the desert	Μια ομάδα ανθρώπων στη μέση της ερήμου.	4
+Two kids are swimming.	Έξι παιδιά πηγαίνουν για κολύμπι.	2.8
+Three humans are walking a dog.	Τρεις άνθρωποι βγάζουν βόλτα ένα σκυλί.	4.8
+There are people out on the street.	Οι άνθρωποι είναι έξω στο δρόμο.	5
+people getting their dirty clothes cleaned	Άνθρωποι καθαρίζουν τα ρούχα τους.	5
+Two women are lost and calling for help.	Δύο ασιατες άνδρες συλλέγουν υλικά για την επιχείρησή τους και το παιδί τους, έπρεπε να έρθει μαζί τους.	0.2
+A man is throwing a penny into a fountain.	Ένα μικρό αγόρι ρίχνει έναν άνθρωπο στο νερό.	0.6
+The children are holding musical instruments.	Μια ομάδα παιδιών τραγουδούν και να παίζουν μουσικά όργανα	3.4
+Two girls are playing Doctor inside their house.	Τα δύο κορίτσια περπατούν με τον πατέρα τους.	0.8
+A crowd of men wearing paper numbers on their shirts run in a race.	Αρκετοί άνδρες τρέχουν σε γήπεδο με γρασίδι φορώντας αριθμούς στις μπλούζες τους.	3.6
+A group of people are wearing police uniforms conducting an arrest.	Μια ομάδα αστυνομικών φορούν προστασία.	2.8
+The fruits should be eaten with lemon juice in order to prevent oxidation in your stomach.	τρία σκυλιά βρυχώνται Το ένα στο άλλο	0
+A doctor prescribes medicine to a patient.	Ένας γιατρός συνταγογραφεί ένα φάρμακο.	4.4
+A woman is in the bathroom.	Η γυναίκα είναι στο μπάνιο.	4.6
+Spectators taking pictures of a rally car.	Ένα πλήθος ανθρώπων παρακολουθούν αυτοκίνητα να αγωνίζονται στην πίστα.	2.8
+The man and woman are resting on a couch.	Ένας άντρας και μια γυναίκα κοιμούνται στον καναπέ.	4
+the man is planning to shoot a wedding	η γυναίκα πηγαίνει σε ένα γάμο.	1.4
+The boy in the green jersey plays goalie on the soccer team.	Η ομάδα στα μπλε παίζει ένα παιχνίδι εναντίον της ομάδας στα λευκά	1
+The child's bike got wet.	Εκείνη τακτοποιεί το ποδήλατο.	1.2
+A soldier walks a dog.	Ένας άνδρας βγάζει βόλτα ένα σκυλί.	3.2
+A shirtless woman is operating a lawn mower.	Ένα κορίτσι κουρεύει το γρασίδι με μια μηχανή του γκαζόν.	3
+People are near water	Οι άνθρωποι είναι κοντά σε νερό.	5
+The two officers are driving	Δύο αξιωματικοί είναι έφιπποι.	2.2
+Friends walk into a building	ένας άνθρωπος περπατά κατά μήκος διαδρόμου στο κατάστημα	0.4
+The lady looks sad because no one is buying her wares.	Η κυρία πουλάει πράγματα.	2
+The rollerblades are moving.	Δύο οχήματα πηγαίνουν προς την κάμερα.	0.8
+There is a older man near a window.	Ένα αγόρι είναι κοντά σε μερικά σκαλοπάτια.	0.4
+A guy and a girl are rock climbing with backpacks on.	Δύο αγόρια καβαλάνε ένα παιχνίδι με μια ξανθιά κοπέλα να τρέχει στο πλάι τους.	0
+In Abu Dhabi the Golden Market is one of the premier public outdoor shopping areas.	Μια πολυσύχναστη πλατεία πόλης σε μια ασιατική χώρα.	1.6
+A pregnant woman is in labor	μια γυναίκα έχει ένα παιδί.	1.6
+A flock of birds hovered over the sandy beach.	Τα πουλιά πετούν σε μια παραλία.	3.8
+people walk home	Άνθρωποι περιμένουν.	1.6
+The religious people are enjoying the outdoors.	Η ομάδα των ανθρώπων απολαμβάνει την ύπαιθρο.	3.6
+A girl in water without goggles or a swimming cap.	Ένα κορίτσι στο νερό, με μάσκα και σκουφάκι.	3
+A man is performing a stunt outdoors.	Ένας νεαρός άνδρας σε μια παραλία εκτελεί ακροβατικά skateboard.	2.8
+A man is laughing with a woman	Ένας άνδρας και μια γυναίκα γελάνε.	4.8
+He is about to run into the boat	Ο άντρας καθαρίζει τη βάρκα του για να την βγάλει από το νερό.	1.2
+2 Cows are in a field.	Δύο πρόβατα είναι σε ένα χωράφι.	2.4
+A wet child enjoys the summer.	Μια γυναίκα απολαμβάνει τον καλοκαιρινό καιρό.	1.8
+There was girl stranded on the roof.	Το ζευγάρι ήταν στο κρεβάτι.	0.2
+There are four snowboarders going off a jump and that are in the air.	Οι δύο δρομείς πλησιάζουν σε μια στροφή.	1
+The girl has a driver's license	Ένας άνθρωπος έχει άδεια οδήγησης.	2.6
+People on motorcycles wearing racing gear ride around a racetrack	Οι άνθρωποι σε μοτοσικλέτες οδηγούν γύρω από μια πίστα	3.8
+A man is standing on the ground with a paintbrush	Ένας άνδρας με ένα δεκανίκι βρίσκεται στο έδαφος.	1.2
+The kids are at the theater watching a movie.	είναι ημέρα φωτογραφίας για τα αγόρια	0.2
+Two women walk down the sidewalk to the store.	Δύο γυναίκες κατηφορίζουν το πεζοδρόμιο το απόγευμα.	3.8
+A man has his son on his back	Ένας άνδρας περνούσε τον καιρό του με το γιο του.	2.4
+A group of dark-skinned people are walking past barbed wire.	Δύο γυναίκες κουτσομπολεύουν δίπλα σε έναν φράκτη.	0.4
+Zombies parading around eating brains.	Τα ζόμπι τρώνε τη σάρκα μαζί.	3.4
+A group of people are sitting at at a beach on towels watching the Blue Angels.	Μια ομάδα ανθρώπων κάθονται σε μια παραλία βλέποντας τους Blue Angels.	4.2
+A basketball player makes the 5th rebound of the night,	Ένας παίκτης του τένις στη μέση ενός παιχνιδιού.	1.4
+Three people are meeting for coffee.	Δύο άνθρωποι κάνουν καφέ.	2.4
+A young girl with dirt on her face and a red child's bike is in the background.	Η ηλικιωμένη γυναίκα με σορτς και ένα λευκό t-shirt στέκεται σε ένα μονοπάτι βλέποντας τα παιδιά να παίζουν.	0.8
+A helicopter is getting ready to take off.	Το αεροπλάνο ετοιμάζεται να απογειωθεί.	2.8
+A line of scooters are parking in the middle of a street.	Μια σειρά από μοτοσυκλέτες είναι σταθμευμένη στη μέση του δρόμου.	4.4
+A man holding a cat.	Ένας άνδρας κρατάει ένα σκυλί.	3
+A man doing a jumping bike trick surrounded by trees.	Ένα αγόρι οδηγεί ένα πράσινο ποδήλατο δεξιοτεχνίας πάνω σε σκάλες εξω.	3
+Three guys in speedos have their feet up on the railing of a boat getting a tan.	Μερικά άτομα στο κατάστρωμα ρίχνουν ένα άλλο άτομο στο νερό	1.6
+A group wading across a witch	Μια ομάδα διασχίζει ένα χαντάκι	2.8
+A woman jumps and poses for the camera.	Μια γυναίκα ποζάρει για την κάμερα.	4
+A man is on a rooftop	Ένας άνδρας κρατάει ένα μικρόφωνο σε ένα δωμάτιο.	0.8
+There are two men near a wall.	Τρεις γυναίκες κάθονται κοντά σε έναν τοίχο.	2
+The cats are running through the grass.	Μερικά σκυλιά τρέχουν μέσα στο πάρκο.	2
+The two boys are playing kick ball back and forth to each other.	Οι παίκτες κλωτσούν ο ένας τον άλλον, όσο προσπαθούν να κλωτσήσουν την μπάλα.	3
+Two girls are running.	Τρία αγόρια τρέχουν.	2.2
+The two men are wearing jeans.	Οι δύο άνδρες φορούν παντελόνι.	4.4
+A little girl in a white blouse and blue pants frolics on the grass.	Μια γυναίκα σε ένα πράσινο πουκάμισο και λευκό παντελόνι παίζει γκολφ στο πράσινο.	1.8
+The man without a shirt is jumping.	Ο άντρας που πηδάει δεν φοράει μπλουζάκι.	4.6
+The woman is holding the hands of the man.	Η γυναίκα ελέγχει τα μάτια του άντρα.	2.4
+A man walks his dog on the beach.	Ένας άνδρας με το σκύλο του στην παραλία.	4.4
+The child is the woman's kid.	Υπάρχει ένα αγόρι και ένα κορίτσι.	0.8
+A soccer player is kicking the ball.	Ο ποδοσφαιριστής έδωσε την μπάλα ένα δυνατό λάκτισμα.	3.8
+Two boys in black swimming trunks are holding another boy by his arms and legs on a beach.	Ο άνθρωπος σε λευκό πουκάμισο ρίχνει νεαρό αγόρι στο νερό με άλλα τέσσερα αγόρια γύρω τους.	1.4
+The player shoots the winning points.	Ο παίκτης μπάσκετ είναι έτοιμος να σκοράρει βαθμούς για την ομάδα του.	2.8
+A man in a white shirt and hat playing a guitar.	Ένας άντρας σε πράσινο πουκάμισο και μαύρο καπέλο παίζει κιθάρα στη σκηνή.	2.8
+A black hooded man is using a large magnifying glass to look at a booklet.	Μια γυναίκα σε  λευκή κουκούλα χρησιμοποιεί ένα μεγεθυντικό φακό για να δει ένα φυλλάδιο.	2.8
+the people are running a marathon	Οι άνθρωποι τρέχουν ένα μαραθώνιο	5
+A motorcross driver going by during a race	Ένας οδηγός αγωνιστικού οχήματος αγωνίζεται στον αγώνα της ζωής του.	3
+A group of people are nervous about crossing the water.	Μια ομάδα ανθρώπων βρίσκονται στο νερό.	2.2
+A group of kids are having a jumping contest.	Μια ομάδα παιδιών κάνουν sleepover.	1.2
+The gate is blue.	Η πύλη είναι κίτρινη.	1.6
+The person is wearing a fedora.	Ένας άνδρας φοράει στολή.	1.6
+A woman and a man embrace while watching a horror movie.	Ένας άνδρας και μια γυναίκα παρακολουθούν μια ταινία μαζί.	2.8
+A man in a blue dress shirt.	Ένας άντρας σε ένα λευκό πουκάμισο και μπλε παντελόνι μιλάει με μια γυναίκα σε ένα ροζ πουκάμισο.	1.8
+A couple is playing the game of Life.	Η οικογένεια παίζει ένα παιχνίδι μαζί.	2.6
+The head of a child with dark glasses is in focus.	Υπάρχει μια γυναίκα με ένα κεφάλι γεμάτο μαλλιά.	0.2
+A dog walks along a beach with breaking waves.	Ένα αγόρι με ένα κουπί βγαίνει από τα κύματα προς την παραλία.	1
+A pair of men walk along the beach.	Δύο άνδρες στέκονται στα κύματα στην παραλία.	2.6
+Blond woman in a tunnel.	Το ζευγάρι φιλιέται κοντά σε μια ξανθιά γυναίκα.	1.6
+A maintenance guy is repairing a net on a tennis court.	Ένας άνθρωπος αφαιρεί ένα δίχτυ τέννις.	2.4
+A kid sits on a soccer ball outside.	Ένα παιδί κάθεται σε μια μπάλα ποδοσφαίρου στο πάρκο.	4.2
+The raven droned as is hopped along the grass.	Το κοκαλιάρικο σκυλί με τη μακριά ουρά ταξιδεύει μέσα από στο χωράφι.	0.2
+A man in a brown coat rubs his nose.	Ένας φαλακρός άνδρας με κόκκινη γενειάδα κρατά το χέρι του κοντά στο στόμα του.	2.2
+The dog is chasing the geese.	Ένας σκύλος κυνηγάει την άλλη.	1.6
+Small child playing with letter P	Τα 2 μικρά κορίτσια κάθονται μπροστά σε ένα ράφι και 1 διαβάζει ένα βιβλίο.	0.8
+A brown dog is jumping.	Ένα καφέ σκυλί πηδάει	5
+the man is catching a ball	Ένας άνδρας κλωτσάει μια μπάλα.	3
+Two men are sitting in the room.	Δύο άνδρες στέκονται σε ένα δωμάτιο.	3
+A group of teenagers in red shirts are smiling.	Μια ομάδα ανθρώπων φορούν πουκάμισα πορτοκαλί.	1.2
+The woman is waiting for her date.	Η γυναίκα πηγαίνει σε μια συνάντηση.	3.2
